@@ -6,7 +6,5 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KahPrisco/KahPrisco/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/KahPrisco/KahPrisco/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
 
