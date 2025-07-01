@@ -8,7 +8,7 @@ Minha trajetória começou na faculdade de Estatística, onde desenvolvi uma bas
 
 🎯 Já atuei na área financeira, com foco em Risco de Contraparte no Bradesco, explorando métricas de risco, simulações e integração entre setores.
 
-🚀 Atualmente, estou participando do BootCamp de Análise de Dados e Plataformas LowCode pela SoulCode em parceria com a Embraer, aprimorando ainda mais minhas habilidades com dados e soluções ágeis.
+🚀 Participei do BootCamp de Análise de Dados e Plataformas LowCode pela SoulCode em parceria com a Embraer, aprimorando ainda mais minhas habilidades com dados e soluções ágeis.
 
 Aqui você encontrará projetos que traduzem minha paixão por dados, minha curiosidade e minha vontade constante de aprender e evoluir 💡📈
 
